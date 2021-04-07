@@ -1,0 +1,25 @@
+/* /deep/ .mat-expansion-indicator {
+  position: absolute;
+  left: 10px;
+
+  vertical-align: middle;
+} */
+
+
+/deep/ .mat-expansion-panel-header-title .open,
+.mat-expanded .mat-expansion-panel-header-title .close{
+  display: inline-block;
+}
+/deep/ .mat-expanded .mat-expansion-panel-header-title .open,
+.mat-expansion-panel-header-title .close{
+  display: none;
+}
+
+.gaugeChartContiner
+{
+/* columns: 5;
+  display: flexbox;
+  flex-direction: column;
+  min-height: 300px; */
+
+ }
